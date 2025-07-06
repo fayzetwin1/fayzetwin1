@@ -9,7 +9,7 @@
 
 ### 🗃 Frameworks & tools 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373554/django.svg"/> ... and also Paper API, Spigot API, Avalonia UI, aiogram.
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373554/django.svg"/> ... and also Paper API, Spigot API, Avalonia UI, WinUI3, aiogram.
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayzetwin1&show_icons=true&theme=gruvbox)
 
