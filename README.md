@@ -15,6 +15,8 @@
 
 I am a Junior Backend Developer gradually moving towards a DevOps Engineer role. I'm passionate about writing clean server-side code, while also learning how to build, automate, and maintain reliable infrastructure.
 
+**📫 Contact:** [contact@fayzetw.in](mailto:contact@fayzetw.in)
+
 ### 🚀 Tech Stack
 
 #### 💻 Programming Languages
